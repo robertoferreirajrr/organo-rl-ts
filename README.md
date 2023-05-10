@@ -8,7 +8,7 @@ Este projeto em especial esta utilizando TypeScript, é a migração do projeto 
 
 O trabalho executado pode ser visualizado na Vercel:
 
-Demo: https://organo-rl.vercel.app
+Demo: https://organo-rl-ts.vercel.app/
 
 ## Como iniciar!?
 
